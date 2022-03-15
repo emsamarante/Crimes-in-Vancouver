@@ -26,6 +26,18 @@ A tabela possui 12 colunas:
 - **X, Y, Latitude e Longitude:** Coordenadas UTM e geográficas.
 
 
+## Ferramenta utilizada
+
+A análise de dados foi realizada em linguagem SQL (MySQL). Optei por usar essa ferramenta porque eu queria realizar uma análise completa nessa linguagem a fim de disponibilizar no meu portfolio de projetos. Todavia, com os resultados obtidos da análise, eu criei um Dashboard usando Python e Dash para complementar a apresentação dos meus resultados. Convido a acessá-lo em: https://crimes-vancouver.herokuapp.com. 
+
+
+## Aplicação das técnicas de análise
+
+Foi realizadado a análise exploratória do dado e foi verificado quem o banco de dados não possui nenhuma informação espacial do local do crime quando este se trata de crime contra a pessoa, acredito que seja por conta de privacidade. Sendo assim, eu optei por realizar queries que desconsiderassem tais dados do dataset. Todos registros que contribuíram para esse relatório possuem as informações de todos os campus.  Como já foi dito, os dados referentes ao ano de 2017 estão incompletos, por isso eles não foram incluídos nessa análise. Técnicas de agregação, funções ao longo tempo, queries/subqueries e views materializadas foram desenvolvidas ao longo do processo.
+
+
+
+
 
 
 
