@@ -12,7 +12,7 @@ Vancouver é uma importante cidade no oeste do Canadá, está localizada na prov
 Neste projeto, foi realizado uma análise de dados referentes ao crimes ocorridos nesta cidade durante o período do ano de 2003 até 2016 com o objetivo de elucidar algumas questões:
 1. Os crimes são mais frequentes em qual período do dia?
 2. Os crimes aumentaram ou diminuíram com o passar dos anos?
-3. Qual crime foi mais frequente em cada ano?
+3. Quais crimes foram mais frequentes em cada ano?
 4. Qual é a quantidade de crime total por período do ano?
 5. Qual região/bairro de Vancouver com maior índice de roubo de veículo ou roubo de algum pertence do veículo?
 
@@ -43,7 +43,7 @@ A entrega dos resultados ocorrerá através de um relatório com as principais c
 
 ## Relatório
 
-1. Os crimes são mais frequentes em qual período do dia?
+### 1) Os crimes são mais frequentes em qual período do dia?
 
 A partir das informações da hora em que ocorreu o crime, o período de 0 hora até 11 horas foi classificado como **AM** e de 12 às 23 horas como **PM**. Agrupando todos crimes apenas por turno, independentemente do tipo de crime, bairro etc, os crimes são mais frequentes no turno PM com 306379 crimes enquanto que no outro turno teve um total de 151444.
 
@@ -53,7 +53,7 @@ A partir das informações da hora em que ocorreu o crime, o período de 0 hora 
 |     AM      | 151444  |   33.07%   |
 
 
-2. Os crimes aumentaram ou diminuíram com o passar dos anos?
+### 2) Os crimes aumentaram ou diminuíram com o passar dos anos?
 
 O gráfico abaixo mostra duas informações ao longo tempo: a quantidade absoluta de crimes que ocorreram em cada ano e uma média móvel ao longo de cada ano.
 
@@ -61,7 +61,7 @@ O gráfico abaixo mostra duas informações ao longo tempo: a quantidade absolut
 
 Observamos que os crimes dimiuíram até a atingir a quantidade mínima no ano de 2011 e depois voltou a crescer. 
 
-3. Qual crime foi mais frequente em cada ano?
+### 3) Quais crimes foram mais frequentes em cada ano?
 
 A tabela abaixo mostra os dois tipos de crimes com maior frequência em cada ano.
 
@@ -97,10 +97,26 @@ A tabela abaixo mostra os dois tipos de crimes com maior frequência em cada ano
  | Other Theft    | 2016    | 5708 | 
 
 
+Para saber a distribuição de um crime específico para um determinado ano por bairro, você pode usar o Dashboard e aplicar os filtros adequados.
+
+### 4) Qual é a quantidade de crime total por período do ano?
+
+A partir das informações do dia e mês do ano, os dados foram organizados por estação do ano a fim de verificar se existia um padrão. 
 
 
+|   Season |   Amount    |
+| ----------- |  ---------  |
+  | Summer  | 122205  | 
+  | Spring  | 115924  | 
+  | Autumn  | 110739  | 
+  | Winter  | 108955  | 
+  
+  Como podemos ver na imagem abaixo - distribuição dos crimes ao longo dos anos por estação - os crimes ocorrem mais no verão e primavera.
+  
+  ![image](https://user-images.githubusercontent.com/45640708/158611950-0a2ba34a-bb87-4824-8e17-dce5ff55357a.png)
 
-
+  
+ 
 
 
 
