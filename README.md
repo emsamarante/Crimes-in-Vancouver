@@ -43,6 +43,62 @@ A entrega dos resultados ocorrerá através de um relatório com as principais c
 
 ## Relatório
 
+1. Os crimes são mais frequentes em qual período do dia?
+
+A partir das informações da hora em que ocorreu o crime, o período de 0 hora até 11 horas foi classificado como **AM** e de 12 às 23 horas como **PM**. Agrupando todos crimes apenas por turno, independentemente do tipo de crime, bairro etc, os crimes são mais frequentes no turno PM com 306379 crimes enquanto que no outro turno teve um total de 151444.
+
+| Part of day | Amount  | Percentage |
+| ----------- | ------- | ---------  |
+|     PM      | 3066379 |   66.92%   |
+|     AM      | 151444  |   33.07%   |
+
+
+2. Os crimes aumentaram ou diminuíram com o passar dos anos?
+
+O gráfico abaixo mostra duas informações ao longo tempo: a quantidade absoluta de crimes que ocorreram em cada ano e uma média móvel ao longo de cada ano.
+
+![image](https://user-images.githubusercontent.com/45640708/158600160-0537d32d-df13-4053-98e0-be12950996f0.png)
+
+Observamos que os crimes dimiuíram até a atingir a quantidade mínima no ano de 2011 e depois voltou a crescer. 
+
+3. Qual crime foi mais frequente em cada ano?
+
+A tabela abaixo mostra os dois tipos de crimes com maior frequência em cada ano.
+
+|        Type | Year    |  Amount    |
+| ----------- | ------- | ---------  |
+|  Theft from Vehicle     | 2003   |  17287   |
+| Break and Enter Residential/Other    | 2003    | 6883 | 
+ | Theft from Vehicle    | 2004    | 17835 | 
+ | Break and Enter Residential/Other    | 2004    | 6537 | 
+ | Theft from Vehicle    | 2005    | 16265 | 
+ | Break and Enter Residential/Other    | 2005    | 5542 | 
+ | Theft from Vehicle    | 2006    | 14580 | 
+ | Break and Enter Residential/Other    | 2006    | 5674 | 
+ | Theft from Vehicle    | 2007    | 12152 | 
+ | Break and Enter Residential/Other    | 2007    | 4996 | 
+ | Theft from Vehicle    | 2008    | 11231 | 
+ | Mischief    | 2008    | 5261 | 
+ | Theft from Vehicle    | 2009    | 9956 | 
+ | Mischief    | 2009    | 4421 | 
+ | Theft from Vehicle    | 2010    | 8567 | 
+ | Mischief    | 2010    | 4486 | 
+ | Theft from Vehicle    | 2011    | 7404 | 
+ | Mischief    | 2011    | 4812 | 
+ | Theft from Vehicle    | 2012    | 8065 | 
+ | Mischief    | 2012    | 4235 | 
+ | Theft from Vehicle    | 2013    | 8298 | 
+ | Mischief    | 2013    | 4173 | 
+ | Theft from Vehicle    | 2014    | 10097 | 
+ | Mischief    | 2014    | 4509 | 
+ | Theft from Vehicle    | 2015    | 10480 | 
+ | Other Theft    | 2015    | 4678 | 
+ | Theft from Vehicle    | 2016    | 12735 | 
+ | Other Theft    | 2016    | 5708 | 
+
+
+
+
 
 
 
