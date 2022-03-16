@@ -127,4 +127,15 @@ Na imagem abaixo temos a distribuição desse crime ocorrido ao longo dos anos.
 ![image](https://user-images.githubusercontent.com/45640708/158615780-7e7e86ee-a631-4cbf-8204-8871bc705deb.png)
 
 
+## Conclusões e sugestões
+
+Verificamos que os crimes ocorrem mais frequência na segunda parte do dia e as maiores taxas ocorrem no período do verão e primavera. Acredito que a ocorrência nestas estações do ano esteja associada em virtude da maior exposição da população fora de casa, tendo em vista que as pessoas tendem a estar mais fora de casa por conta temperatura. 
+
+A quantidade total de crimes tem uma relação muito forte com o crime "Theft from vehicle", uma vez as autoridades prevenindo e combatendo esse tipo de crime, a taxa de criminalidade da cidade certamente diminuirá consideravelmente. O local de Vancouver com mais incidência para esse tipo de crime é a região cetral da cidade, o que é completamente explicada pela densidade demográfica. 
+
+Tomando como ponto de partida os padrões observados nesse conjunto de dados, seguem algumas sugestões:
+1. Distribuição desigual do efetivo da polícia- mais polícia onde temos mais crimes;
+2. As escalas, folgas e férias dos policiais devem ser pensadas de acordo com incidência de crimes. Por exemplo, o melhor período do ano para os policiais tirarem férias é no período do inverno. Verão e primavera devem ter o efetivo máximo;
+3. Política de conscientização da população em relação a deixar pertences dentro do veículo.
+
 
