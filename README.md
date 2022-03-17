@@ -116,7 +116,7 @@ A partir das informações do dia e mês do ano, os dados foram organizados por 
   ![image](https://user-images.githubusercontent.com/45640708/158611950-0a2ba34a-bb87-4824-8e17-dce5ff55357a.png)
 
   
- ### 5) Qual região/bairro de Vancouver com maior índice de roubo de algum pertence do veículo?
+ ### 5) Qual região/bairro de Vancouver com maior número de roubo de algum pertence do veículo?
 
 Na imagem abaixo temos a distribuição desse crime por bairro ocorrido no período total da análise.
 
