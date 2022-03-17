@@ -14,7 +14,7 @@ Neste projeto, foi realizado uma análise de dados referentes ao crimes ocorrido
 2. Os crimes aumentaram ou diminuíram com o passar dos anos?
 3. Quais crimes foram mais frequentes em cada ano?
 4. Qual é a quantidade de crime total por período do ano?
-5. Qual região/bairro de Vancouver com maior índice de roubo de veículo ou roubo de algum pertence do veículo?
+5. Qual região/bairro de Vancouver com maior número de roubo de algum pertence do veículo?
 
 #### Fonte de dados
 
